@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jnjsi24/jnjsi24/master/Black Gold Elegant Wedding Party Landscape Banner Template.jpg" />
+  <img src="https://raw.githubusercontent.com/jnjsi24/jnjsi24/master/welcome.jpg" />
 </div>
 
 
