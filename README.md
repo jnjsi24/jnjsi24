@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/jnjsi24/jnjsi24/master/Black Gold Elegant Wedding Party Landscape Banner Template.jpg" />
+</div>
+
+
 # 💫 About Me:
 👨🏻 My name is Jairhon Nadonga Jusi,  you can call me Jai<br> 🧑🏻‍💻 I'm 24 yrs old College Student<br> 💻 My current course is Bachelor of Science in Information Technology<br> 📍 I live in Makati, Philippines<br> 📞 Contact Me <br> 
 
