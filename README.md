@@ -5,6 +5,7 @@
 <br/>
 <br/>
 
+
 <div align="center">
   <h1>"Coding is today's language of creativity! It's not just about the tools, but the imagination behind them" 💭 </h1>
 </div>
@@ -16,8 +17,8 @@
   <img src="https://raw.githubusercontent.com/jnjsi24/jnjsi24/main/solar-system-animation.svg" alt="Solar System Animation" />
 </div>
 
-
 <br/>
+
 
 ## 🧑🏻‍💻  About Me:
 
@@ -31,6 +32,7 @@
 
 <br/>
 
+
 <div align="center">
   
 Eager to connect with like-minded individuals, share experiences, and embark on new adventures. So, whether you're a fellow tech enthusiast, an avid traveler, or just someone looking for an engaging conversation, feel free to drop me a line. Let's connect and make some magic happen!
@@ -38,6 +40,7 @@ Eager to connect with like-minded individuals, share experiences, and embark on 
 </div>
 
 <br/>
+
 
 ## 🌐  Socials:
 
@@ -51,6 +54,7 @@ Eager to connect with like-minded individuals, share experiences, and embark on 
 </div>
 
 <br/>
+
 
 # 💻  Tech Stack
 
@@ -80,6 +84,7 @@ Eager to connect with like-minded individuals, share experiences, and embark on 
 
 <br/>
 
+
 ## 📊  GitHub Stats:
 
 <br/>
@@ -91,9 +96,6 @@ Eager to connect with like-minded individuals, share experiences, and embark on 
 </div>
 
 <br/>
-
-
-
 
 
 ## 🏆  GitHub Trophies
@@ -108,6 +110,7 @@ Eager to connect with like-minded individuals, share experiences, and embark on 
 
 <br/>
 
+
 ### ✍️ Random Dev Quote
 
 <br/>
@@ -119,6 +122,7 @@ Eager to connect with like-minded individuals, share experiences, and embark on 
 </div>
 
 <br/>
+
 
 ### 🔝  Top Contributed Repo
 
@@ -132,6 +136,7 @@ Eager to connect with like-minded individuals, share experiences, and embark on 
 
 <br/>
 
+
 ### 😂  Random Dev Meme
 
 <br/>
@@ -144,17 +149,18 @@ Eager to connect with like-minded individuals, share experiences, and embark on 
 
 <br/>
 
+
 ---
 
 <br/>
 
 <div align="center">
 
-<!-- Animated GitHub Profile Banner -->
+
 ![Animated Banner](https://media.giphy.com/media/ddZ2mYhxhh69wEpSVz/giphy.gif)
 
 [![](https://visitcount.itsvg.in/api?id=jnjsi24&icon=5&color=9)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 </div>
