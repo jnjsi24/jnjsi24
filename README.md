@@ -19,7 +19,9 @@
 
 
 
-<div style="text-align:center;">
+<table align="center">
+  <tr>
+    <td>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/jnjsi/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_jnjsi) 
@@ -41,7 +43,10 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jnjsi24&limit=5&theme=apprentice&combine_all_yearly_contributions=true)
 
-</div>
+    </td>
+  </tr>
+</table>
+
 
 
 
