@@ -3,13 +3,13 @@
 </div>
 
 
-# 💫 About Me:
-👨🏻 My name is Jairhon Nadonga Jusi,  you can call me Jai<br> 🧑🏻‍💻 I'm 24 yrs old College Student<br> 💻 My current course is Bachelor of Science in Information Technology<br> 📍 I live in Makati, Philippines<br> 📞 Contact Me <br> 
+#🧑🏻‍💻 About Me:
+* 🧾 My name is Jairhon Nadonga Jusi,  you can call me Jai<br> * 👨🏻‍🎓 I'm 24 yrs old College Student<br> * 📚 My current course is Bachelor of Science in Information Technology<br> * 📍 I live in Makati City, Philippines<br> * ☎️ Contact Me <br> 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/jnjsi/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_jnjsi) 
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black)
 
 ## 📊 GitHub Stats:
