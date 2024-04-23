@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jnjsi24/jnjsi24/master/github-header-image.png" />
+  <img src="https://raw.githubusercontent.com/jnjsi24/jnjsi24/master/github-header.png
+" />
 </div>
 
 
