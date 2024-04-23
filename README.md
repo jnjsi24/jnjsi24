@@ -11,7 +11,7 @@
 - 👨🏻‍🎓 I'm 24 yrs old College Student
 - 📚 My current course is Bachelor of Science in Information Technology
 - 📍 I live in Makati City, Philippines
-- ☎️ Contact Me
+- ☎️ Contact Me: ‭+63 9150937012‬
 
 
 
