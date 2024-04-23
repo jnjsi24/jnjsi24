@@ -5,11 +5,21 @@
 <br/>
 <br/>
 
-# "Coding is today's language of creativity! It's not just about the tools, but the imagination behind them" 💭 
+<div align="center">
+  <h1>"Coding is today's language of creativity! It's not just about the tools, but the imagination behind them" 💭 </h1>
+</div>
+
 
 <br/>
 
-## 🧑🏻‍💻 About Me:
+<div align="center">
+  <img src="https://raw.githubusercontent.com/jnjsi24/jnjsi24/main/solar-system-animation.svg" alt="Solar System Animation" />
+</div>
+
+
+<br/>
+
+## 🧑🏻‍💻  About Me:
 
 <br/>
 
@@ -29,7 +39,7 @@ Eager to connect with like-minded individuals, share experiences, and embark on 
 
 <br/>
 
-## 🌐 Socials:
+## 🌐  Socials:
 
 <br/>
 
@@ -42,7 +52,7 @@ Eager to connect with like-minded individuals, share experiences, and embark on 
 
 <br/>
 
-# 💻 Tech Stack
+# 💻  Tech Stack
 
 <br/>
 
@@ -70,7 +80,7 @@ Eager to connect with like-minded individuals, share experiences, and embark on 
 
 <br/>
 
-## 📊 GitHub Stats:
+## 📊  GitHub Stats:
 
 <br/>
 
@@ -82,7 +92,11 @@ Eager to connect with like-minded individuals, share experiences, and embark on 
 
 <br/>
 
-## 🏆 GitHub Trophies
+
+
+
+
+## 🏆  GitHub Trophies
 
 <br/>
 
@@ -106,7 +120,7 @@ Eager to connect with like-minded individuals, share experiences, and embark on 
 
 <br/>
 
-### 🔝 Top Contributed Repo
+### 🔝  Top Contributed Repo
 
 <br/>
 
@@ -118,7 +132,7 @@ Eager to connect with like-minded individuals, share experiences, and embark on 
 
 <br/>
 
-### 😂 Random Dev Meme
+### 😂  Random Dev Meme
 
 <br/>
 
