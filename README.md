@@ -57,7 +57,7 @@ Eager to connect with like-minded individuals, share experiences, and embark on 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="30" alt="github logo"  />
   <img witdth="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="30" alt="node logo"  />
-</div>
+/>
 
 
 ## 📊 GitHub Stats:
