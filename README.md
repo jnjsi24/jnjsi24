@@ -10,7 +10,13 @@
 - 📍 I live in Makati City, Philippines
 - ☎️ Contact Me
 
+Currently navigating the thrilling journey of being a 24-year-old college student pursuing a Bachelor of Science in Information Technology. Born and bred in the vibrant city of Makati, Philippines, I find joy in unraveling the intricacies of technology and its ever-evolving landscape.
 
+When I'm not buried in code or buried under textbooks, you can find me exploring the nooks and crannies of my city, discovering hidden gems in local cuisine, or diving into a captivating book. An ardent advocate for lifelong learning, I'm constantly seeking opportunities to expand my horizons and deepen my understanding of the world around me.
+
+Passionate about leveraging technology for positive change, I'm drawn to projects and initiatives that aim to make a meaningful impact on society. Whether it's developing innovative solutions to address pressing challenges or simply lending a helping hand to those in need, I believe in the power of collaboration and community to drive progress.
+
+Eager to connect with like-minded individuals, share experiences, and embark on new adventures. So, whether you're a fellow tech enthusiast, an avid traveler, or just someone looking for an engaging conversation, feel free to drop me a line. Let's connect and make some magic happen!
 
 
 
