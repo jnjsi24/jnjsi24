@@ -3,7 +3,7 @@
 </div>
 
 
-#       " Coding is today's language of creativity! It's not just about the tools, but the imagination behind them 💭 " 
+#       Coding is today's language of creativity! It's not just about the tools, but the imagination behind them 💭 
 
 
 🧑🏻‍💻 **About Me:**
