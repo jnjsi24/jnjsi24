@@ -3,8 +3,13 @@
 </div>
 
 
-🧑🏻‍💻 About Me:
-- 🧾 My name is Jairhon Nadonga Jusi, you can call me Jai<br> - 👨🏻‍🎓 I'm 24 yrs old College Student<br> - 📚 My current course is Bachelor of Science in Information Technology<br> - 📍 I live in Makati City, Philippines<br> - ☎️ Contact Me <br> 
+🧑🏻‍💻 **About Me:**
+- 🧾 My name is Jairhon Nadonga Jusi, you can call me Jai
+- 👨🏻‍🎓 I'm 24 yrs old College Student
+- 📚 My current course is Bachelor of Science in Information Technology
+- 📍 I live in Makati City, Philippines
+- ☎️ Contact Me
+
 
 
 
