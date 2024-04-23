@@ -36,7 +36,7 @@ Eager to connect with like-minded individuals, share experiences, and embark on 
 
 
 
-# 💻 Tech Stack
+# 💻 Tech Stack:
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -61,9 +61,11 @@ Eager to connect with like-minded individuals, share experiences, and embark on 
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jnjsi24&theme=merko&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jnjsi24&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jnjsi24&theme=merko&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<div align="center">
+  ![](https://github-readme-stats.vercel.app/api?username=jnjsi24&theme=merko&hide_border=false&include_all_commits=false&count_private=true)<br/>
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=jnjsi24&theme=merko&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jnjsi24&theme=merko&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jnjsi24&theme=apprentice&no-frame=true&no-bg=false&margin-w=4)
