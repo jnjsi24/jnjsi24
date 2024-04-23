@@ -3,6 +3,9 @@
 </div>
 
 
+# "Coding is today's language of creativity. It's not just about the tools, but the imagination behind them."
+
+
 🧑🏻‍💻 **About Me:**
 - 🧾 My name is Jairhon Nadonga Jusi, you can call me Jai
 - 👨🏻‍🎓 I'm 24 yrs old College Student
@@ -14,7 +17,7 @@
 
 
 
-<center>Eager to connect with like-minded individuals, share experiences, and embark on new adventures. So, whether you're a fellow tech enthusiast, an avid traveler, or just someone looking for an engaging conversation, feel free to drop me a line. Let's connect and make some magic happen!</center>
+Eager to connect with like-minded individuals, share experiences, and embark on new adventures. So, whether you're a fellow tech enthusiast, an avid traveler, or just someone looking for an engaging conversation, feel free to drop me a line. Let's connect and make some magic happen!
 
 
 
