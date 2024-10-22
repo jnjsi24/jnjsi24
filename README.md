@@ -24,8 +24,8 @@
 
 <br/>
 
-- 🧾 My name is Jairhon Nadonga Jusi, you can call me Jai
-- 👨🏻‍🎓 I'm 24 yrs old College Student
+- 🧾 My name is Jairhon Jusi, you can call me Jai
+- 👨🏻‍🎓 I'm 25 years old College Student
 - 📚 My current course is Bachelor of Science in Information Technology
 - 📍 I live in Makati City, Philippines
 - ☎️ Contact Me: ‭+63 9150937012‬
