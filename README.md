@@ -2,7 +2,7 @@
 
 <div align="center">
   <h2>
-    "Coding is today's language of creativity! It's not just about the tools, but the imagination behind them"
+    "the future of development isn't writing syntax, it's architecting systems"
   </h2>
 </div>
 
